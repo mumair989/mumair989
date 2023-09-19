@@ -1,3 +1,4 @@
+![github-background](https://github.com/mumair989/mumair989/assets/104270202/da4e7775-2eb8-4daa-a9c5-fbc87099a5ff)
 <h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
 <h3 align="center">A passionate Full-Stack Developer from New York City</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
